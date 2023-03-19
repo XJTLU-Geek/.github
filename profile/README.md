@@ -8,7 +8,7 @@ XJTLU Geek
 ### Maintained by individuals
 
 - [pick-your-pe](https://github.com/AprilNEA/pick-your-pe) - Quick Course Selection Script for PE
-- [course-plus](https://course.xjtlu.best) - Better Course View Website
+- [course-plus](https://course-plus.xjtlu.best) - Better Course View Website
 
 ## Contacts
 
